@@ -51,6 +51,7 @@ public class Main {
             adressInfo.append("----------------\n");
             adressInfo.append("Street: ").append(billingStreet).append("\n");
             adressInfo.append("City: ").append(billingCity).append("\n");
+            adressInfo.append("State: ").append(billingState).append("\n");
             adressInfo.append("Zip: ").append(billingZip).append("\n\n");
             adressInfo.append("Shipping Adress\n");
             adressInfo.append("----------------\n");
